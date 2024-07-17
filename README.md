@@ -81,10 +81,10 @@ reducing the need for manual intervention in invoice data extraction tasks.
       Integrated trained YOLOv5 model with Flask web app.
       Implemented text extraction functionality to extract invoice details from uploaded images.
 
-      ![Screenshot 2024-07-17 221251](https://github.com/user-attachments/assets/17cbb4e1-8f51-4327-8c1d-f578e5e0257b)
+![Screenshot 2024-07-17 221251](https://github.com/user-attachments/assets/17cbb4e1-8f51-4327-8c1d-f578e5e0257b)
 
 
-      ![Screenshot 2024-07-17 221424](https://github.com/user-attachments/assets/c54cb19d-fdd0-4f4f-8824-5c7ed4c40556)
+![Screenshot 2024-07-17 221424](https://github.com/user-attachments/assets/c54cb19d-fdd0-4f4f-8824-5c7ed4c40556)
 
     Deliverables:
 
